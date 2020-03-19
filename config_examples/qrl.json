@@ -3,7 +3,7 @@
 
     "coin": "quantum_resistant_ledger",
     "symbol": "QRL",
-    "hardForkHeight": 10500,
+    "hardForkHeight": 942375,
     "coinUnits": 1000000000,
     "coinDecimalPlaces": 9,
     "coinDifficultyTarget": 60,
